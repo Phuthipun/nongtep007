@@ -5,7 +5,7 @@
 const video = document.getElementById('camera');
 
 // Sample video URL (replace with your own video URL or source)
-const videoURL = '724590808.232984.mp4';
+const videoURL = '31ebc9d1-4b0d-417d-b7f3-0ef3fbbe432a.mp4';
 
 // Set the video source
 video.src = videoURL;
